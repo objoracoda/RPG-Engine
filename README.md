@@ -1,2 +1,2 @@
 # RPG-Engine
-Простая RPG на Pygmae. 
+Простая RPG на Pygame. 
